@@ -25,9 +25,9 @@ In general please follow the example format below.
 
 | Name | Report template | Build status | Latest release | Issues                          |
 |:-----|:----------------|:-------------|:---------------|:--------------------------------|
-[Zeus](#)|[Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) [Feature]() | | |
+[Zeus](#)|[Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,zeus&template=feature_request.md) | | |
 [Era 57 / 80](#)| | | |
-[Eos 57](#)| [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md)| | |
+[Eos 57](#)| [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos_57_helios_57_ng&template=feature_request.md) | | |
 [Eos 80](#)| | | |
 [Helios 57 NG](#)| | | |
 [Helios 57](#)| | | |
