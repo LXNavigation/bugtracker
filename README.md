@@ -21,14 +21,15 @@ In general please follow the example format below.
 
 (Or just take a look at the [EXAMPLE ISSUE](#)
 
-Bug count: [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat-square&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-Feature count: [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat-square&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat-square&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+
+[![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat-square&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
 #### Project templates
 
 | Name | Report template | Build status | Latest release | Issues                          |
 |:-----|:----------------|:-------------|:---------------|:--------------------------------|
-[Zeus](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,zeus&template=feature_request.md) | | | [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/zeus.svg?style=flat-square&color=informational&label=zeus)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Azeus)
+[Zeus](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,zeus&template=feature_request.md) | | | [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/zeus.svg?style=flat&color=informational&label=zeus)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Azeus)
 [10k](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,10k&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,10k&template=feature_request.md) | | |
 [Era 57 / 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,era&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,era&template=feature_request.md) | | |
 [Eos 57](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos_57_helios_57_ng&template=feature_request.md) | | |
