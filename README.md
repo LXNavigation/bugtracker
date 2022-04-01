@@ -25,19 +25,26 @@ In general please follow the example format below.
 
 | Name | Report template | Build status | Latest release | Issues                          |
 |:-----|:----------------|:-------------|:---------------|:--------------------------------|
-[Zeus](#)|[Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,zeus&template=feature_request.md) | | |
-[Era 57 / 80](#)| | | |
-[Eos 57](#)| [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos_57_helios_57_ng&template=feature_request.md) | | |
-[Eos 80](#)| | | |
-[Helios 57 NG](#)| | | |
-[Helios 57](#)| | | |
-[Iris](#)| | | |
-[Iris EFIS 57 / 80](#)| | | |
-[Iris](#)| | | |
-[Colibri X](#)| | | |
-[Colibri II](#)| | | |
-[Salus](#)| | | |
-[LX Cloud](#)| | | |
+[Zeus](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,zeus&template=feature_request.md) | | |
+[10k](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,10k&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,10k&template=feature_request.md) | | |
+[Era 57 / 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,era&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,era&template=feature_request.md) | | |
+[Eos 57](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos_57_helios_57_ng&template=feature_request.md) | | |
+[Eos 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos80&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos80&template=feature_request.md) | | |
+[Helios 57 NG](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos_57_helios_57_ng&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,eos_57_helios_57_ng&template=feature_request.md) | | | 
+[Helios 57](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,helios&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,helios&template=feature_request.md) | | | 
+[Helios 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,helios&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,helios&template=feature_request.md) | | | 
+[Iris](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,iris&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,iris&template=feature_request.md) | | | 
+[Iris EFIS 57 / 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,efis&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,efis&template=feature_request.md) | | | 
+[CAN2WIFI](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,can2wifi&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,can2wifi&template=feature_request.md) | | | 
+[Salus](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,salus&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,salus&template=feature_request.md) | | | 
+[Flarm Eagle WIFI portal](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,falrm_eagle_wifi&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,flarm_eagle_wifi&template=feature_request.md) | | | 
+[Traffic Monitor 57 / 80](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,traffic&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,traffic&template=feature_request.md) | | | 
+[Traffic Square](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,traffic&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,traffic&template=feature_request.md) | | | 
+[Colibri X](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,colibri_x&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,colibri_x&template=feature_request.md) | | | 
+[Colibri II](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,colibri_2&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,colibri_2&template=feature_request.md) | | | 
+[MOP](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,mop&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,mop&template=feature_request.md) | | | 
+[LX Cloud](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,cloud&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,cloud&template=feature_request.md) | | | 
+[Database](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,cloud&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,cloud&template=feature_request.md) | | | 
 
 ## Bug/Issue report
 
