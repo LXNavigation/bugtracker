@@ -11,19 +11,28 @@ You'll need a Github account to report issues and bugs.
 ### 2. Ask to become a collaborator if you're really serious
 Normal users can't add labels and do much besides create and comment on issues. But if you really, really, like hanging out on our bugtracker for some reason, we can make you a collaborator and give you more power. 
 
-### 3. Learn how to report a bug! *This is very important!*
+### 3. Learn how to report! *This is very important!*
 
 First please ensure you are running the latest version of the software available for your device. 
 Check open issues and make sure that nobody have reported simialr issue. In case you find an issue and you want to add details please comment on existing Issues.
 When adding a new issue please try to explain the situation in depth.
 In order to fix a bug, we have to be able to reproduce the error or problem you've encountered. Add all asociated files/attachments if needed. Screenshots are welcome.
-In general please follow the example format below.
+In general please follow the example format for Bug and or Feature report.
 
-(Or just take a look at the [EXAMPLE ISSUE](#)
+Or just take a look at the [EXAMPLE ISSUE](https://github.com/LXNavigation/bugtracker/issues/1)
 
 [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat-square&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat-square&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
+## Bug/Issue report
+
+To open new issue please follow the link. Report any bug issue with our devices or services [open a new issue](#) with your bug, everything helps! BeforeThe team will do its best to keep this updated with issues from emails and other sources.
+
+## Feature request
+
+We love to hear your suggestion. Simply [open a new issue](#) and describe what you wish for. Feel free to join the discussion on open feature requests.
+
 
 #### Project templates
 
@@ -50,18 +59,12 @@ In general please follow the example format below.
 [LX Cloud](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,cloud&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,cloud&template=feature_request.md) | | | [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/cloud.svg?style=flat&color=informational&label=cloud)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Acloud)
 [Database](#) | [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,database&template=bug_report.md) or [Feature](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement,database&template=feature_request.md) | | | [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/database.svg?style=flat&color=informational&label=database)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Adatabase)
 
-## Bug/Issue report
 
-To open new issue please follow the link. Report any bug issue with our devices or services [open a new issue](#) with your bug, everything helps! BeforeThe team will do its best to keep this updated with issues from emails and other sources.
+# General report
 
-## Feature request
-
-We love to hear your suggestion. Simply [open a new issue](#) and describe what you wish for. Feel free to join the discussion on open feature requests.
-
-# bugtracker
+Please use general report only when you can not find a project listed above.
 
 Create new [bug report](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug&template=bug_report.md)
-
 Create new [feature request](https://github.com/LXNavigation/bugtracker/issues/new?labels=enhancement&template=feature_request.md)
 
 
