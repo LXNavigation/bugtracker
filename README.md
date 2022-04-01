@@ -27,7 +27,7 @@ In general please follow the example format below.
 |:-----|:----------------|:-------------|:---------------|:--------------------------------|
 [Zeus](#)|[Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) [Feature]() | | |
 [Era 57 / 80](#)| | | |
-[Eos 57](#)| [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,'eos 57 %2F helios 57 ng'&template=bug_report.md)| | |
+[Eos 57](#)| [Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,eos%2057%20%2F%20helios%2057%20ng'&template=bug_report.md)| | |
 [Eos 80](#)| | | |
 [Helios 57 NG](#)| | | |
 [Helios 57](#)| | | |
