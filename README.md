@@ -21,17 +21,17 @@ In general please follow the example format for Bug and or Feature report.
 
 Or just take a look at the [EXAMPLE ISSUE](https://github.com/LXNavigation/bugtracker/issues/1)
 
-[![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat-square&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+#### Overal Status
 
-[![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat-square&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug) and [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
 
-## Bug/Issue report
+#### Bug/Issue report
 
-To open new issue please follow the link. Report any bug issue with our devices or services [open a new issue](#) with your bug, everything helps! BeforeThe team will do its best to keep this updated with issues from emails and other sources.
+To open new issue please follow the link. Report any bug issue with our devices or services. The team will do its best to keep this updated with issues from other sources (emails, phone reports, beta tester program). We strongly suggest that you all use this system to report open issue.
 
-## Feature request
+#### Feature request
 
-We love to hear your suggestion. Simply [open a new issue](#) and describe what you wish for. Feel free to join the discussion on open feature requests.
+We love to hear your suggestions. Simply open a new issue and describe what would you like us to develop. Feel free to join the discussion on open feature requests.
 
 
 #### Project templates
