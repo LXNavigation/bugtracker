@@ -25,7 +25,7 @@ In general please follow the example format below.
 
 | Name | Report template | Build status | Latest release | Issues                          |
 |:-----|:----------------|:-------------|:---------------|:--------------------------------|
-[Zeus](#)| | | |
+[Zeus](#)|[Bug](https://github.com/LXNavigation/bugtracker/issues/new?labels=bug,zeus&template=bug_report.md) [Feature]() | | |
 [Era 57 / 80](#)| | | |
 [Eos 57](#)| | | |
 [Eos 80](#)| | | |
