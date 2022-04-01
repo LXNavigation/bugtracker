@@ -21,6 +21,9 @@ In general please follow the example format below.
 
 (Or just take a look at the [EXAMPLE ISSUE](#)
 
+Bug count: [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/bug.svg?style=flat-square&color=informational&label=issues)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+Feature count: [![Issues](https://img.shields.io/github/issues/lxnavigation/bugtracker/enhancement.svg?style=flat-square&color=informational&label=enhancements)](https://github.com/LXNavigation/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
 #### Project templates
 
 | Name | Report template | Build status | Latest release | Issues                          |
